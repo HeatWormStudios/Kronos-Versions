@@ -1,7 +1,7 @@
 {
     "core": "1.0.0",
     "products": {
-        "UIKit": "1.3.0",
+        "KronosNotify": "1.0.0",
         "CombatSystem": "2.0.0"
     }
 }
