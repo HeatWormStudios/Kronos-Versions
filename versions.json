@@ -8,7 +8,7 @@
                 "UIKit": ">=1.3.0"
             },
             "optional": {
-                "KronosNotify": ">=1.0.0"
+                "KronosNotify": ">=1.2.0"
             }
         }
     }
